@@ -54,6 +54,6 @@ Built with Python + OpenAI API. Designed to demonstrate how AI can augment and n
 
 ## 🔗 Connect
 
-[![LinkedIn](linkedin.com/in/darjan-stojanovski-ab527812a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darjan%20Stojanovski-blue?logo=linkedin)](linkedin.com/in/darjan-stojanovski-ab527812a)
 
 📧 darjan1986@gmail.com
